@@ -1,7 +1,7 @@
 pipeline {
     agent any
 
-    envirnoment{
+    environment{
          DOCKER="C:/Users/Ludhiya/AppData/Local/Programs/DockerDesktop/resources/bin/docker"
     }
 
