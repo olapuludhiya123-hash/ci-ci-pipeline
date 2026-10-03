@@ -1,6 +1,9 @@
 pipeline {
     agent any
 
+    enivronment{
+        Docker ="C:\Users\Ludhiya\AppData\Local\Programs\DockerDesktop\resources\bin\docker.exe"
+
     stages {
 
       
